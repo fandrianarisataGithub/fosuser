@@ -81,9 +81,6 @@
     "egulias/email-validator": {
         "version": "2.1.23"
     },
-    "friendsofsymfony/user-bundle": {
-        "version": "v2.1.2"
-    },
     "monolog/monolog": {
         "version": "1.25.5"
     },
@@ -403,9 +400,6 @@
         "version": "v2.2.0"
     },
     "symfony/stopwatch": {
-        "version": "v4.4.16"
-    },
-    "symfony/templating": {
         "version": "v4.4.16"
     },
     "symfony/test-pack": {
